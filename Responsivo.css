@@ -1,0 +1,53 @@
+@media screen and (max-width: 1005px) {
+  .navbar {
+    position: relative;
+  }
+  .menu {
+    display: none;
+  }
+  .logo {
+    margin: 0;
+    text-align: center;
+  }
+  .header {
+    padding-top: 50px;
+  }
+  .headline {
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+  .headline p {
+    text-align: center;
+  }
+  .img-headline {
+    margin: 5%;
+    flex: 100%;
+    text-align: center;
+  }
+  .contrate {
+    display: none;
+  }
+  .contrate-2 {
+    display: inline-block;
+  }
+  section {
+    margin: 5%;
+  }
+  section h2 {
+    font-size: 41px;
+  }
+  .card {
+    display: block;
+    width: 100%;
+  }
+  .footer{
+    height: 217px;
+  }
+  #p{
+    margin-top: 21%;
+  }
+  .whats {
+    display: none;
+  }
+}
